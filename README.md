@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+Add C++ Classify inference example (#6868)
