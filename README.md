@@ -1,1 +1,1 @@
-Fix test_mlflow_keep_run_active() (#8868)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
