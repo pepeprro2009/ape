@@ -1,1 +1,1 @@
-ultralytics 8.1.16 OBB ConfusionMatrix support (#8299)
+ultralytics 8.1.6 revert 8.0.206 box ops box scaling (#7823)
