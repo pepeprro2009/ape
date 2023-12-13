@@ -1,1 +1,1 @@
-Add simple-utilities.md Docs page (#8269)
+fix yolo classify model loading error (#9196)
