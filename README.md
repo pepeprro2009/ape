@@ -1,1 +1,1 @@
-Retry once for Docker CI failures (#8164)
+Segment TensorRT batch=3 fix (#7952)
