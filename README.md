@@ -1,1 +1,1 @@
-Embed videos in Docs pages using Parent pages for relevant segments (#6877)
+Add plot_images conf_thresh parameter (#8446)
