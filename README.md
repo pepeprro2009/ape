@@ -1,1 +1,1 @@
-Fix Neural Magic links (#9144)
+Optimize function calls to method calls (#8507)
