@@ -1,1 +1,1 @@
-Fix undefined ‘im_array’ bug in predict.md (#8565)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
