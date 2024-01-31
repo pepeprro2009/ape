@@ -1,1 +1,1 @@
-OBB Docs updates (#7568)
+docs: update view-results-in-terminal.md (#66)
