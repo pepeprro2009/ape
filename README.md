@@ -1,1 +1,1 @@
-Capitalize OBB acronym (#7383)
+Mkdocs annotations fixes (#7600)
