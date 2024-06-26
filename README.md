@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+Add plot_images conf_thresh parameter (#8446)
