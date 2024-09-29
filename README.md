@@ -1,1 +1,1 @@
-Update Docs README (#8919)
+Avoid creating -hub dir without processing images (#8334)
