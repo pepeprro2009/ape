@@ -1,1 +1,1 @@
-Replacing Images for torchscript.md (#8596)
+Fix docker.yaml double-quote version bug (#7452)
