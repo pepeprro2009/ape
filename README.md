@@ -1,1 +1,1 @@
-ultralytics 8.0.228 add training time argument (#7054)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
